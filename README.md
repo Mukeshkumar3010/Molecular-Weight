@@ -12,7 +12,7 @@ The data type should have:
 • a constructor that reads values from a ﬁle to create a dictionary whose
 keys are strings representing element symbols and whose values 
 are Element objects.
-The ﬁle elements.txt on moodle contains the data pertaining to elements,
+The ﬁle elements_1.txt on moodle contains the data pertaining to elements,
 one element per line. 
 You will need to loop over the lines of the ﬁle and for each line use 
 the string split() method to obtain the ﬁrst four values in it
